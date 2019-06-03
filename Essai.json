@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.google.com/search?rlz=1C1GCEA_enFR799FR799&ei=sTD1XI-sNfKtgwe2ibDoCA&q=cl%C3%A9a&oq=cl%C3%A9a&gs_l=psy-ab.3..0l9j0i10.241285.242732..242897...0.0..0.122.461.0j4....3..0....1..gws-wiz.......0i71j0i67.9PIp1RHUecM",
+      "url": "https://www.google.com/search?q=laurie&rlz=1C1GCEA_enFR799FR799&oq=laurie&aqs=chrome..69i57.690j0j9&sourceid=chrome&ie=UTF-8",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
