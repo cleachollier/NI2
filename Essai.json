@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.google.com/search?q=essai&rlz=1C1GCEA_enFR799FR799&oq=essai&aqs=chrome.0.69i59j69i60j69i61l2.647j0j7&sourceid=chrome&ie=UTF-8",
+      "url": "https://calendar.google.com/calendar/r/week",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
