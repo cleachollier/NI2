@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://app.smartsheet.com/sheets/325QPwV9mJVM68WfCh84cXQw6Fw7v4gqr9HQ3gv1",
+      "url": "https://calendar.google.com/calendar/r/week",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
