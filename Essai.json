@@ -1,0 +1,38 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://app.smartsheet.com/sheets/325QPwV9mJVM68WfCh84cXQw6Fw7v4gqr9HQ3gv1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://app.smartsheet.com/sheets/J3Hr4M3Wxww8q4cVXVHWRwFpvXMPw2fm8gWhfFV1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+    { "url": "https://docs.google.com/presentation/d/1So45NU1wq280v9C09IB1leEbi6Dg6LeoDrciUxjK0TA/embed?start=TRUE&loop=false&delayms=3000&slide=id.p",
+    "duration": 10,
+    "tableReloadIntervalSeconds":15
+    },
+    { "url": "https://docs.google.com/presentation/d/1So45NU1wq280v9C09IB1leEbi6Dg6LeoDrciUxjK0TA/preview?slide=id.p1",
+    "duration": 10,
+    "tableReloadIntervalSeconds":15
+    },
+    { "url": "https://docs.google.com/presentation/d/1So45NU1wq280v9C09IB1leEbi6Dg6LeoDrciUxjK0TA/edit?slide=id.p1",
+    "duration": 10,
+    "tableReloadIntervalSeconds":15
+    },
+    { "url": "https://docs.google.com/spreadsheets/d/1qK3U6EsJQm8Wg5A_40SRifm9LsCOJ8XqtOjUcLu0elo/edit",
+    "duration": 10,
+    "tableReloadIntervalSeconds":15
+    },
+    { "url": "https://docs.google.com/spreadsheets/d/1qK3U6EsJQm8Wg5A_40SRifm9LsCOJ8XqtOjUcLu0elo/preview",
+    "duration": 10,
+    "tableReloadIntervalSeconds":15
+    }
+  ]
+}
